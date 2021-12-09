@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/drawable/hookah.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/activity_vizipipa.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/content_vizipipak.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/fragment_vizipipa.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/item_vizipipa.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/title_fragment.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/vizipipak.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/layout/vizipipakfragment.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/mipmap-anydpi-v26/hookah_icon.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/mipmap-anydpi-v26/hookah_icon_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/vpKing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Adrienn/Documents/Gyakorlas/mob/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Adrienn/Documents/Gyakorlas/mob/app/src/main/res/layout/activity_vizipipa.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Adrienn/Documents/Gyakorlas/mob/app/src/main/res/layout/item_vizipipa.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Adrienn/Documents/Gyakorlas/mob/app/src/main/res/layout/title_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Adrienn/Documents/Gyakorlas/mob/app/src/main/res/layout/vizipipa_page.xml" value="0.18070652173913043" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/addvizipipa_fragment.xml" value="0.24295432458697766" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/item_vizipipa.xml" value="0.264" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/iz_fragment.xml" value="0.17300724637681159" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/title_fragment.xml" value="0.17300724637681159" />
+        <entry key="..\:/zzzkotlinxddd/vpking/app/src/main/res/layout/vizipipa_page.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="vpKing.app" />
+      </set>
+    </option>
+  </component>
+</project>
